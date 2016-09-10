@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  NinjaAimTest
 //
-//  Created by Jennifer Zeller on 9/9/16.
+//  Created by Alex on 9/9/16.
 //  Copyright © 2016 Alex. All rights reserved.
 //
 

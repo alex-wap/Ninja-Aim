@@ -2,7 +2,7 @@
 //  GameViewController.swift
 //  NinjaAimTest
 //
-//  Created by Jennifer Zeller on 9/9/16.
+//  Created by Alex on 9/9/16.
 //  Copyright (c) 2016 Alex. All rights reserved.
 //
 
